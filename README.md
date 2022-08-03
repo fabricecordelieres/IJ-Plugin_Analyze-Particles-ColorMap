@@ -17,9 +17,9 @@
   <img src="images/GUI.png">
 </p>
 
-* **Reference image**: select the original image.
-* **Parameter to draw**: select the parameter from the Results Table that will be serve as an intensity for each ROI on the output image.
-* **LUT to use**: select the LUT to apply to the output image.
+* ***Reference image***: select the original image.
+* ***Parameter to draw***: select the parameter from the Results Table that will be serve as an intensity for each ROI on the output image.
+* ***LUT to use***: select the LUT to apply to the output image.
 3. The output image is generated.
 
 <p align="center">
