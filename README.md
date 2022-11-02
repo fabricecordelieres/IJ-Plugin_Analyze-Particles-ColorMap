@@ -28,5 +28,5 @@
 </p>
 
 # Versions
-## 2020/08/03: Version 1.0
+## 2022/08/03: Version 1.0
 Initial release
